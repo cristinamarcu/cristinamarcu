@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cristina Marcu
-- 👀 I’m interested in: Python, REST, Tkinter, SQL ...
+- 👀 I’m interested in: Python, Azure, SQL, REST, Tkinter,  ...
 - 📫 How to reach me: [linkedin](www.linkedin.com/in/cristina-marcu-691a36235)
 
 <!---
